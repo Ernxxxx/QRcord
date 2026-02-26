@@ -1,0 +1,4 @@
+# Ignore actual keystore files and credentials
+*.keystore
+*.jks
+keystore.properties
