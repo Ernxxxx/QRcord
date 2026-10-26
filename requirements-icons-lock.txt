@@ -1,0 +1,6 @@
+# Python 3.13.18 / Windows x64 / verified 2026-10-26
+packaging==26.3
+pillow==13.0.0
+pip==26.2.2
+setuptools==84.2.1
+wheel==0.48.0
